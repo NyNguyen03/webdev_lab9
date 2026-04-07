@@ -12,4 +12,5 @@ function init(){
   
   button.addEventListener('click', eventClick);
 }
+
 window.addEventListener('load', init);
